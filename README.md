@@ -30,7 +30,7 @@ Este bloco de notas foi projetado para oferecer:
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/Usuario/projeto-bloco-notas.git
+   git clone https://github.com/rafaelromwno/projeto-bloco-notas.git
    ```
 3. Navegue até o diretório do projeto:
    ```bash
@@ -40,7 +40,11 @@ Este bloco de notas foi projetado para oferecer:
    ```bash
    npm install
    ```
-5. Inicie a aplicação:
+5. Instale o electron:
+   ```bash
+   npm install electron
+   ```
+6. Inicie a aplicação:
    ```bash
    npm run dev
    ```
