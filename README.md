@@ -42,7 +42,7 @@ Este bloco de notas foi projetado para oferecer:
    ```
 5. Inicie a aplicação:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## 🤝 Contribuição
