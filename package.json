@@ -1,0 +1,24 @@
+{
+  "name": "projeto-bloco-notas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelromwno/projeto-bloco-notas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rafaelromwno/projeto-bloco-notas/issues"
+  },
+  "homepage": "https://github.com/rafaelromwno/projeto-bloco-notas#readme",
+  "dependencies": {
+    "electron": "^35.0.2"
+  }
+}
